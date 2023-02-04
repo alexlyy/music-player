@@ -9,7 +9,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/18f4836a-1ca7-4859-a403-7f68e1a61226/deploy-status"/>
 </p>
 
 <p align="center">
