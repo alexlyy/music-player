@@ -2,7 +2,7 @@
 
 #### This is a minimal and simple music player UI design.
 
-**LIVE DEMO** - [musicplayer.anniew.xyz](https://musicplayer.anniew.xyz/)
+**LIVE DEMO** - [music-player-alex.fly.dev](https://music-player-alex.fly.dev/)
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
