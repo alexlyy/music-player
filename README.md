@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://musicplayer.anniew.xyz/"><img src="./img/music-player.gif" alt="music player gif" height="600"></a>
+  <a href="https://music-player-alex.fly.dev/"><img src="./img/music-player.gif" alt="music player gif" height="600"></a>
 </p>
 
 ### Functionality
